@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "bth-master-thesis": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7187",
+      "launchBrowser": false
+    }
+  }
+}
